@@ -2,8 +2,6 @@
 /***************************************
 * Lab05 *
 * Author: Huzaifa, Mohammad*
-* EECS/Prism username: huz21 *
-* Yorku Student #: 220250205 *
 * Email: huz21@my.yorku.ca*
 ****************************************/
 
